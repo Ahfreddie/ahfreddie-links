@@ -9,3 +9,20 @@ I was setting up a linktree and then I got annoyed by the fact customization is 
 Anyway I also plan to practice tailwind with this, an awesome learning moment indeed.
 
 ## features
+- Minimal
+- Accessible (wip)
+- Responsive (wip)
+
+## Stack 
+- HTML
+- Tailwind CSS
+
+## How to run locally
+- Clone repo
+- npm install
+- npm run dev
+
+## What I have learned
+- How to think in layers thanks to the tailwind css approach.
+- Tailwind is not that complicated once you understand what css components I am looking for.
+- This was my first tailwind project but it was not that bad.
